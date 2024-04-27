@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @coder667
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me google
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python and React
+- 💞️ I’m looking to collaborate on Web Dev
 
 <!---
 coder667/coder667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
