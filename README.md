@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder667
+- 👋 Hi, I’m Somesh Gupta aka @coder667  
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on Web Dev
